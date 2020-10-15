@@ -3,7 +3,7 @@
 In deze oefeningen maken we een aantal formulieren aan.     
 Je stuurt steeds je formulier naar je mail client (outlook, ...). Hiervoor geef je volgende waarde aan het action-attribuut in je form tag: "mailto:*je hogent e-mailadres*".           
 Zorg ervoor dat als je op de tekst (label) van een formulier element klikt, je focus krijgt in het overeenkomende formulier element.             
-Binnen elk formulier plaats je elk label- en formulierelement samen tussen **div** tags. Er ligt in elk bestand een link naar *css/main.css*. Deze zorgt ervoor dat er witruimte gecreërd wordt tussen de form elementen.         
+Binnen elk formulier plaats je elk label- en formulierelement samen tussen **div** elementen. Er ligt in elk bestand een link naar *css/main.css*. Deze zorgt ervoor dat er witruimte gecreëerd wordt tussen de form elementen.         
 Schrijf correcte html, test deze op https://validator.w3.org/nu/, om onderstaande screenshots in je browser weer te geven.
 
 -----
@@ -13,7 +13,7 @@ Schrijf correcte html, test deze op https://validator.w3.org/nu/, om onderstaand
 Open bestand oefening01.html. Maak onderstaand aanmeldingsformulier.       
 ![](images/11.png)       
    
-E-mail en wachtwoord zijn verplichte velden. Bij e-mail voorzie je een voorbeeld in de input (zie figuur hieronder).   
+E-mail en wachtwoord zijn verplichte velden. Bij e-mail voorzie je een voorbeeld in de input (zie figuur hierboven).   
 Het formulier wordt verstuurd met de POST method naar *je hogent e-mailadres* met als onderwerp **Aanmelden**       
 ![](images/12.png)
 ![](images/13.png)
