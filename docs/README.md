@@ -86,7 +86,7 @@ Kies je favoriete kleur. Zorg ervoor dat rood (#ff0000) als kleur staat ingestel
 Kies je favoriete getal. Zorg ervoor dat 13 als default staat ingesteld. Je mag geen negatieve waarde kunnen ingeven. Dit is een verplicht veld.     
 ![](images/62.png)      
 Geef met een slider een score (tussen 0 en 20) aan dit vak. Default waarde is 15.       
-Om de score naast de slider weer te geven voorzie je een **span** tag met **id="score"**. Geef aan de slider (input tag) een **id="slider"**.      
+Om de score naast de slider weer te geven voorzie je een **span** tag met **id="showScore"**. Geef aan de slider (input tag) een **id="score"**.      
 ![](images/63.png)          
 
 Het formulier wordt verstuurd met de POST method naar *je hogent e-mailadres* met als onderwerp **Poll**                       
